@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 19
 #+PROPERTY: FILE SB04n0455-019皇朝文鑑-卷第十九.
+# SB1_1977-060.png
+# page missing
 <pb:KR4h0040_SBCK_019-1a>¶
+# SB1_1977-061.png
 　　　過家　黃　庭堅¶
 　　　上冢　黃　庭堅¶
 　　　題王黃州墨蹟後　黃　庭堅¶
